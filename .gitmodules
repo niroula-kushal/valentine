@@ -1,0 +1,3 @@
+[submodule "PHP-SERVICE-LOCATOR"]
+	path = PHP-SERVICE-LOCATOR
+	url = https://github.com/RehmatFalcon/PHP-SERVICE-LOCATOR.git
